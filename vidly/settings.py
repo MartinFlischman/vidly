@@ -26,7 +26,7 @@ SECRET_KEY = 'q3%q0c!9#hcp_opku@1fpr*_844q7uczr$58)z^_-rzcld&5vf'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://arcane-reef-22576.herokuapp.com/'
+    'arcane-reef-22576.herokuapp.com'
 ]
 
 
