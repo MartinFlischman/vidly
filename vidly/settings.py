@@ -25,7 +25,9 @@ SECRET_KEY = 'q3%q0c!9#hcp_opku@1fpr*_844q7uczr$58)z^_-rzcld&5vf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'https://arcane-reef-22576.herokuapp.com/'
+]
 
 
 # Application definition
